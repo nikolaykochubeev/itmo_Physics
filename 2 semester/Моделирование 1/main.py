@@ -4,9 +4,15 @@ import matplotlib.pyplot as pt
 
 class Rocket:
     def __init__(self, _x0=0, _y0=0, _angle=0, _rocket_mass=0, _fuel_mass=0, _gas_outflow=0, _fuel_burn=0):
-        self.earth_mass, self.g, self.x0, self.y0, self.angle, \
-            self.rocket_mass, self.fuel_mass, self.gas_outflow, self.fuel_burn = \
-            5.97e+20, 9.81, _x0, _y0, _angle, _rocket_mass, _fuel_mass, _gas_outflow, _fuel_burn
+        self.earth_mass = 5.97e+20
+        self.g = 9.81
+        self.x0 = _x0
+        self.y0 = _y0
+        self.rocket_mass = _rocket_mass
+        self.angle = _angle
+        self.fuel_mass = _fuel_mass
+        self.fuel_burn = _fuel_burn
+        self.gas_outflow = _gas_outflow
 
     def x(self, time):
         return self.x0 + time * time * (self.fuel_burn * self.gas_outflow / (
