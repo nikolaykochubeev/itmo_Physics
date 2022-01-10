@@ -1,4 +1,4 @@
-# Физика 1 курс
+# 1 курс
 ## Второй семестр
 
 ### [Лабораторная работа 1.01](https://github.com/nikolaykochubeev/itmo_physics/tree/main/2%20semester/1.01)
@@ -16,3 +16,19 @@
 ### [Моделирование 2](https://github.com/nikolaykochubeev/itmo_physics/tree/main/2%20semester/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%202)
 
 
+# 2 курс
+## Третий семестр
+
+### [Лабораторная работа 3.10](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/3.10)
+
+### [Лабораторная работа 3.11](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/3.11)
+
+### [Лабораторная работа 1.24v](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/1.24v)
+
+### [Лабораторная работа 4.03](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/4.03)
+
+### [Лабораторная работа 4.10](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/4.10)
+
+### Coming soon...
+
+### Coming soon...
