@@ -34,5 +34,4 @@
 ### [Моделирование Каустики](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/Caustic)
 
 
-# 2 курс
 ## Четвертый семестр
