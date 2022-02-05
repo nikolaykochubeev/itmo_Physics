@@ -29,6 +29,10 @@
 
 ### [Лабораторная работа 4.10](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/4.10)
 
-### Coming soon...
+### [Моделирование Солитонов](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/Soliton)
 
-### Coming soon...
+### [Моделирование Каустики](https://github.com/nikolaykochubeev/itmo_physics/tree/main/3%20semester/Caustic)
+
+
+# 2 курс
+## Четвертый семестр
