@@ -100,3 +100,4 @@ sgpa.on_changed(update)
 sgsig.on_changed(update)
 
 plt.show(block=True)
+

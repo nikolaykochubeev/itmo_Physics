@@ -60,3 +60,4 @@ def sie_grad(x, y, par):
     yg = ytg * N.cos(phirad) + xtg * N.sin(phirad)
     # Return value:
     return xg, yg
+
