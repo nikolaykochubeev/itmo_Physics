@@ -41,5 +41,5 @@
 ### [Лабораторная работа 5.07](https://github.com/nikolaykochubeev/itmo_physics/tree/main/4%20semester/5.07)
 ### [Лабораторная работа IBM №1](https://github.com/nikolaykochubeev/itmo_physics/tree/main/4%20semester/ibm1)
 ### [Лабораторная работа IBM №2](https://github.com/nikolaykochubeev/itmo_physics/tree/main/4%20semester/ibm2)
+### [Моделирование свет проходящий мимо массивного тела](https://github.com/nikolaykochubeev/itmo_physics/tree/main/4%20semester/modeling2)
 ### [Моделирование убийства кабана](https://github.com/nikolaykochubeev/itmo_physics/tree/main/4%20semester/modeling1)
-### [Моделирование ](https://github.com/nikolaykochubeev/itmo_physics/tree/main/4%20semester/modeling2)
